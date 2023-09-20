@@ -7,7 +7,7 @@ Este é um sistema de conta bancária desenvolvido em Java. O sistema permite a 
 
 ## Configuração do Banco de Dados
 
-Antes de usar o sistema, você deve configurar um banco de dados MySQL e atualizar as informações de conexão no arquivo `ConexaoBanco.java`. Certifique-se de criar o banco de dados e as tabelas conforme as definições fornecidas no código.
+Antes de usar o sistema, você deve configurar um banco de dados SQL e atualizar as informações de conexão no arquivo `ConexaoBanco.java`. Certifique-se de criar o banco de dados e as tabelas conforme as definições fornecidas no código.
 
 ## Funcionalidades
 
