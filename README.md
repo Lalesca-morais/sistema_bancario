@@ -68,11 +68,7 @@ public void listarContasDeUmCliente(int idCliente) {
     // Lista todas as contas associadas a um cliente específico.
 }
 ```
-Este é um sistema de exemplo e pode ser estendido e personalizado de acordo com as necessidades específicas do seu projeto.
-
 ---
-
-Lembre-se de atualizar as informações e detalhes do seu projeto, como nome do projeto, autor, requisitos de configuração e qualquer outra informação relevante para o usuário. Isso ajudará os usuários a entenderem como usar e configurar o seu sistema.
 # Criação das tabelas SQL
 ## Tabela Cliente
 CREATE TABLE Cliente 
